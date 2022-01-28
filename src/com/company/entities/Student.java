@@ -64,4 +64,14 @@ public class Student
         this.group = group;
     }
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", name='" + name +
+                ", surname='" + surname +
+                ", gender=" + group +
+                '}';
+    }
+
 }
