@@ -1,4 +1,4 @@
-package com.company.data.interfaces;
+package com.company.repositories.interfaces;
 
 import com.company.entities.Student;
 
